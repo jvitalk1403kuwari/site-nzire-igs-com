@@ -1,4 +1,7 @@
-      
+/* html, body {
+    height: 100%;
+} */
+
 .about-photo {
     max-width: 300px;
     border-radius: 50%;
