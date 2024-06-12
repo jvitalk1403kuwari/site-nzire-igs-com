@@ -17,8 +17,8 @@ scrollToTopBtn.addEventListener('click', function() {
 });
 
 
-// Handle form submission
-document.getElementById('contactForm').addEventListener('submit', function(event) {
-    event.preventDefault();
-    alert('Votre message a été envoyé !');
-})
+// // Handle form submission
+// document.getElementById('contactForm').addEventListener('submit', function(event) {
+//     event.preventDefault();
+//     alert('Votre message a été envoyé !');
+// })
