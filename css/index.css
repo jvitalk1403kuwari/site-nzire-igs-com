@@ -1,17 +1,13 @@
 
-/* html, body {
-    height: 100%;
+html, body {
+    min-height: 100%;
     margin: 0;
-    font-family: 'Helvetica Neue', sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
-    line-height: 1.6;
 }
 
 body {
     display: flex;
     flex-direction: column;
-} */
+}
 
 .hero-section {
     flex: 1 0 auto;
